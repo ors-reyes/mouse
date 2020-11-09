@@ -1,0 +1,9 @@
+body{
+    background: #f00;
+    /* cursor: grabbing; */
+}
+.contenedor{
+    width: 100%;
+    height: 100vh;
+    background: #000;
+}
